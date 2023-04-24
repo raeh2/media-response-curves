@@ -1,7 +1,7 @@
 """
-This is the intellectual property of Raelene Huang (Merkle Inc.)
+This is the intellectual property of Raelene Huang.
 
-Confidential. Not to be used for distribution purposes. 
+Not to be used for distribution purposes. 
 """
 
 
